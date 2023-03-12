@@ -1,0 +1,1 @@
+This project trains a model with leads(potential customers) who either become a customer or doesn't. Then use that model to predict the probabilities of ambiguous leads becoming customers & standardize it in a 0-100 range, termed as "lead score"
